@@ -1,0 +1,20 @@
+    /* shitify/src/styles.css */
+
+    .poop {
+    position: absolute;
+    font-size: 24px;
+    animation: fallAndFade 2s ease-out;
+    z-index: 9999;
+    pointer-events: none;
+    }
+
+    @keyframes fallAndFade {
+    0% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+    100% {
+        transform: translateY(100px);
+        opacity: 0;
+    }
+    }

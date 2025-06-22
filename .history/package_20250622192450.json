@@ -1,0 +1,20 @@
+{
+  "name": "shitify-js",
+  "version": "1.0.0",
+  "description": "💩 A plug-and-play JS library for toilet-paper cursors, poop emojis on click, and fart sounds.",
+  "main": "dist/init.js",
+  "types": "dist/init.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": ["poop", "cursor", "fart", "prank", "javascript"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nipuntaneja05/shitify-js.git"
+  },
+  "author": "Nipun Taneja",
+  "license": "MIT"
+}

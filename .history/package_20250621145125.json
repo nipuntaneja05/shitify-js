@@ -1,0 +1,21 @@
+{
+  "name": "shitify",
+  "version": "0.1.0",
+  "description": "💩 Turn any website into poop chaos — toilet paper cursor, poop emojis, and fart sounds.",
+  "main": "dist/core.js",
+  "types": "dist/core.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "funny",
+    "chaos",
+    "javascript",
+    "library",
+    "emoji",
+    "prank",
+    "poop"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
